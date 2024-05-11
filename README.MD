@@ -21,3 +21,9 @@
 # task complete
 ![alt text](image-8.png)
 ![alt text](image-9.png)
+
+# exercise 3
+![alt text](image-11.png)
+![alt text](image-10.png)
+# task complete
+![alt text](image-12.png)
